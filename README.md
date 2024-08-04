@@ -1,2 +1,2 @@
 # House-Price-Statistical-Inference
-Applying almost every statistical test on House Price Prediction dataset.
+Applying almost all possible statistical tests on House Price Prediction dataset.
